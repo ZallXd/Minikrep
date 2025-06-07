@@ -8,7 +8,7 @@ let botStatus = "Bot belum online";
 function createBot() {
   const bot = mineflayer.createBot({
     host: "Zall001.aternos.me", // ganti IP Aternos kamu
-    port: 25565,
+    port: 22262,
     username: "Sayangku",
     version: false
   });
